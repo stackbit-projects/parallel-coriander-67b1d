@@ -39,7 +39,7 @@ sections:
       - input_type: email
         name: email
         label: El. pašto adresas
-        default_value: Your email address
+        default_value: Jūsų el. pašto adresas
         is_required: true
       - input_type: select
         name: subject
