@@ -58,7 +58,7 @@ sections:
         name: consent
         label: 'Sutinku, kad mano duomenys būtų saugomi susisiekimo tikslais.'
         is_required: true
-    submit_label: Send Message
+    submit_label: Siųsti
     align_vert: top
     padding_top: medium
     padding_bottom: medium
