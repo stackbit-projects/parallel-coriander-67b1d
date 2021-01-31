@@ -3,7 +3,7 @@ title: Blogas
 sections:
   - type: hero_section
     title: Blogas
-    subtitle: The optional subtitle
+    subtitle: 'Deja, šiuo metu jokių įrašų nėra.'
     align: center
     padding_top: medium
     padding_bottom: none
