@@ -17,12 +17,12 @@ sections:
       norite susisiekti skubiai, siūlome kreiptis telefonu.
 
 
-      ### Privacy
+      ### Duomenų sauga.
 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Informuojame, jog jūsų pateikti duomenys yra užkoduojami ir laikomi
+      saugioje duomenų bazėje. Juos pasiekti gali tik žmogus, atsakingas už
+      komunikaciją.
     content_align: left
     form_position: right
     form_width: fifty
