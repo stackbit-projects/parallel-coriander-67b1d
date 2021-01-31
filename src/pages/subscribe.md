@@ -3,7 +3,7 @@ title: Ačiū
 excerpt: lorem-ipsum
 sections:
   - title: Ačiū!
-    subtitle: 'Dėkojame už jūsų prenumeratą! :)'
+    subtitle: "Dėkojame už jūsų prenumeratą!\_☺"
     content: |
       *
     actions:
@@ -17,9 +17,7 @@ sections:
         no_follow: false
         type: action
     image_alt: lorem-ipsum
-    video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    video_embed_html: ''
     media_position: top
     media_width: fifty
     align: left
