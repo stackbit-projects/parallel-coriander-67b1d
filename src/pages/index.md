@@ -1,5 +1,5 @@
 ---
-title: P+
+title: Pagrindinis
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
