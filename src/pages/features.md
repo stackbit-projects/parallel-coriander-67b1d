@@ -42,7 +42,7 @@ sections:
         media_width: fifty
   - type: grid_section
     title: Prekiautojai
-    subtitle: ''
+    subtitle: Komandos nariai atsakingi
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
