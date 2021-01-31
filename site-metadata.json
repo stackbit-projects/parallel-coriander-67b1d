@@ -68,11 +68,6 @@
         "secondary_nav_title": "",
         "secondary_nav_links": [
             {
-                "label": "General",
-                "url": "/blog/category/general",
-                "style": "link"
-            },
-            {
                 "label": "Tutorials",
                 "url": "/blog/category/tutorials",
                 "style": "link"
