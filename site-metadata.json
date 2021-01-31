@@ -92,7 +92,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Blogas",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
