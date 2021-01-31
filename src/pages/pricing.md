@@ -12,17 +12,15 @@ sections:
       - title: (piešinys)
         subtitle: ''
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### Šilauogės
 
-          per month, billed yearly
+          Didžiausios ir gardžiausios
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   1kg kaina - 6€
+          *   Perkant 10kg ir daugiau, kilogramo kaina 5€
         content_align: left
         actions:
           - label: Start with Personal
