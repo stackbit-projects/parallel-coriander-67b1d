@@ -44,7 +44,7 @@ sections:
       Apsilankykite skiltyje **Apie mus**.
     actions:
       - label: Pirmyn!
-        url: /pricing
+        url: /features
         style: primary
     align: center
     padding_top: medium
