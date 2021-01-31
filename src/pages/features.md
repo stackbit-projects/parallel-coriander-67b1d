@@ -56,12 +56,12 @@ sections:
         image_width: twenty-five
         title: ''
         subtitle: ''
-      - content: >-
+      - content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Kęstutis,** *Šiauliai*
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
