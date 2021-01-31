@@ -15,9 +15,13 @@ sections:
     grid_items:
       - title: Numeriai susisiekimui
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: |+
+          *   \+37061030258    Vakaris, Vilnius
+
+          <!---->
+
+          *   \+37061539726     Kęstutis, Šiauliai
+
         content_align: center
         actions:
           - label: Get Support
