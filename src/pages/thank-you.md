@@ -3,7 +3,9 @@ title: Ačiū
 sections:
   - type: hero_section
     title: Ačiū!
-    subtitle: 'Dėkojame, jog susisiekėte su mumis. Atrašysime,. Have a great day!'
+    subtitle: >-
+      Dėkojame, jog susisiekėte su mumis. Atrašysime vienos dienos eigoje. Geros
+      dienos!
     actions:
       - label: Back to homepage
         url: /
