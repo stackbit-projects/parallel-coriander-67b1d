@@ -1,6 +1,6 @@
 ---
 title: Ačiū
-excerpt: lorem-ipsum
+excerpt: ''
 sections:
   - type: hero_section
     title: Blogas
