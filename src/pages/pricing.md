@@ -50,18 +50,15 @@ sections:
       - title: (piešinys)
         subtitle: ''
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### Sausmedžių uogos
 
-          per month, billed yearly
+          Vitaminų bomba
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   1kg kaina - 6€
+          *   Perkant daugiau nei 5kg, vieno kilogramo kaina 5€
         content_align: left
         actions:
           - label: Start with Business
