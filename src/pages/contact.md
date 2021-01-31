@@ -16,13 +16,13 @@ sections:
       - title: Numeriai susisiekimui
         title_align: center
         content: |
-          > Vilnius
+          > **Vilnius**
 
           \+37061030258,   Vakaris
 
-          > Šiauliai
+          > **Šiauliai**
 
-          \+37061539726     Kęstutis
+          \+37061539726,     Kęstutis
         content_align: left
         actions: []
         actions_align: center
