@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Susisiekite su mumis!
     subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
+      Turite klausimų? Nedvejodami rašykite mums laišką arba susisiekite
+      telefonu.
     align: center
     padding_top: small
     padding_bottom: small
