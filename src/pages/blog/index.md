@@ -22,7 +22,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Jūsų el. part adresas
+        default_value: Jūsų el. pa adresas
         is_required: true
     submit_label: Prenumeruoti
     padding_top: medium
