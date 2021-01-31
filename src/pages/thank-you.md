@@ -1,5 +1,5 @@
 ---
-title: Thank You
+title: Ačiū
 sections:
   - type: hero_section
     title: Thank You!
