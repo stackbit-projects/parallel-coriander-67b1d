@@ -25,7 +25,7 @@ sections:
         default_value: Jūsų el. part adresas
         is_required: true
     submit_label: Prenumeruoti
-    padding_top: large
+    padding_top: medium
     padding_bottom: large
     has_border: true
     background_color: secondary
