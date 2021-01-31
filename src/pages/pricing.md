@@ -31,18 +31,15 @@ sections:
       - title: (piešinys)
         subtitle: ''
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### Medus
 
-          per month, billed yearly
+          Meškų mėgstamiausias
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   1l kaina - 9€
+          *   Perkant 5l ir daugiau, vieno litro kaina - 8€
         content_align: left
         actions:
           - label: Start with Premium
