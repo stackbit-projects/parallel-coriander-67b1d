@@ -28,7 +28,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: (pie6inys)
+      - title: (pieinys)
         subtitle: Optional subtitle
         title_align: left
         content: |-
