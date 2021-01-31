@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Vasaros ūkis
     subtitle: Optional hero section subtitle
-    content: |
-      Įžanginis tekstas.
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel.
     actions:
       - label: Try Free
         url: /pricing
