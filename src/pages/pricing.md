@@ -20,7 +20,7 @@ sections:
           Didžiausios ir gardžiausios
 
           *   1kg kaina - 6€
-          *   Perkant 10kg ir daugiau, kilogramo kaina 5€
+          *   Perkant 10kg ir daugiau, kilogramo kaina - 5€
         content_align: left
         actions:
           - label: Start with Personal
