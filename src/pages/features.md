@@ -161,8 +161,9 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Ar jau susipažinote su mūsų ūkiu?
-    content: |
-      Jei taip, nedvejodami susisiekite su mumis!
+    content: >
+      Jei taip, gal norite žvilgtelėtį į sarašą gamtos gėrybių kuriomis šiuo
+      metu prekiaujame?
     actions:
       - label: Asortimentas
         url: /pricing
