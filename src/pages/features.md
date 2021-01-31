@@ -161,7 +161,8 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Ar jau susipažinote su mūsų ūkiu?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Jei taip, nedvejodami susisiekite su mumis!
     actions:
       - label: Compare Plans
         url: /pricing
