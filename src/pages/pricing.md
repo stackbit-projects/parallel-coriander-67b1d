@@ -23,7 +23,7 @@ sections:
           *   Perkant 10kg ir daugiau, kilogramo kaina - 5€
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Su
             url: /features
             style: primary
         actions_align: left
