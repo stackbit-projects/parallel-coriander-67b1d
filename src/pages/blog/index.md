@@ -23,7 +23,8 @@ sections:
   - type: form_section
     title: Norite sekti naujienas?
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: |
+      Prenumeruokite ir būkite informuoti kai įkelsime naujus įrašus.
     content_align: center
     form_position: bottom
     form_layout: inline
