@@ -24,7 +24,7 @@ sections:
     title: Norite sekti naujienas?
     title_align: center
     content: |
-      Prenumeruokite ir būkite informuoti kai įkelsime naujus įrašus.
+      Prenumeruokite ir būsite informuoti kai įkelsime naujus įrašus.
     content_align: center
     form_position: bottom
     form_layout: inline
