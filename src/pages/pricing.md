@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Asortimentas
 sections:
   - type: hero_section
     title: Pick Your Plan
