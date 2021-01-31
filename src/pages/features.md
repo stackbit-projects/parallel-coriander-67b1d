@@ -165,7 +165,7 @@ sections:
       Jei taip, nedvejodami susisiekite su mumis!
     actions:
       - label: Susisiekti
-        url: /pricing
+        url: /contact
         style: primary
     actions_position: right
     align: left
