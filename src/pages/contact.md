@@ -51,25 +51,6 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Other Queries
-        title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
-        content_align: center
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: images/classic/icon-3.svg
-        image_alt: Other queries icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
