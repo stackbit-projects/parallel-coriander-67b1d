@@ -33,9 +33,9 @@ sections:
         image_has_padding: true
       - title: Rašykite laišką
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: >
+          Jeigu norite, galite parašyti mums elektroninį laišką. Paspaudus
+          žemiau esantį mygtuką, būsite nukreti į laiško formą.
         content_align: center
         actions:
           - label: Get Support
