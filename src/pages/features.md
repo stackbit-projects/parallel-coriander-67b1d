@@ -160,7 +160,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: This is a Call to Action
+    title: Ar jau susipažinote su mūsų ūkiu?
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
