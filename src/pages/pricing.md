@@ -58,7 +58,7 @@ sections:
           Vitaminų bomba
 
           *   1kg kaina - 6€
-          *   Perkant daugiau nei 5kg, vieno kilogramo kaina 5€
+          *   Perkant daugiau nei 5kg, vieno kilogramo kaina - 5€
         content_align: left
         actions:
           - label: Susisiekti
