@@ -4,17 +4,8 @@ excerpt: lorem-ipsum
 sections:
   - title: Ačiū!
     subtitle: 'Dėkojame už jūsų prenumeratą! :)'
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      *
     actions:
       - label: Atgal į pagrindinį
         url: lorem-ipsum
