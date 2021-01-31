@@ -47,7 +47,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: (pie
+      - title: (piešinys)
         subtitle: Optional subtitle
         title_align: left
         content: |-
