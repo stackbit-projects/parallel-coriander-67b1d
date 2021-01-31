@@ -50,6 +50,13 @@ sections:
         name: consent
         label: 'Sutinku, kad mano duomenys būtų saugomi susisiekimo tikslais.'
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Siųsti
     align_vert: top
     padding_top: medium
