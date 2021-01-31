@@ -3,7 +3,7 @@ title: Apie mus
 sections:
   - type: hero_section
     title: Informacija
-    subtitle: ''
+    subtitle: Viskas spie mūsų ūkį
     background_color: secondary
   - type: features_section
     features:
