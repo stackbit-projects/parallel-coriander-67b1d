@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Sužinokite apie mus!
     subtitle: ''
-    background_color: primary
+    background_color: secondary
   - type: features_section
     features:
       - title: Mūsų nuostabi komanda
