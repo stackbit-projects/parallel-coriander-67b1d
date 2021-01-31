@@ -44,10 +44,8 @@ sections:
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
     grid_items:
-      - content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
+      - content: |
+          Uolus uogų rinkėjas, nors kartais ir prie tinginio.
 
           **Vakaris,** *Vilnius*
         image: images/eleanor-carr.png
