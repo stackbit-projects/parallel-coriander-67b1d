@@ -49,7 +49,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Vakaris Paulavičius,** *Vilnius*
+          **Vakaris,** *Vilnius*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
