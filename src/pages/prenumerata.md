@@ -1,5 +1,5 @@
 ---
-title: Ačiū
+title: Ačiū!
 excerpt: lorem-ipsum
 template: page
 ---
