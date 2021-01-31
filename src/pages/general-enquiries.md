@@ -9,14 +9,16 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ### Billing
+    content: >
+      ### Parašykite mums laišką!
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+
+      Norime įspėti, jog į elektroninius laiškus atsakome per 24 valandas. Jeigu
+      norite susisiekti skubiai, siūlome kreiptis telefonu.
+
 
       ### Privacy
+
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
