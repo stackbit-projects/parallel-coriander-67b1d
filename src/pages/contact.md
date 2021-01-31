@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontaktai
 sections:
   - type: hero_section
     title: Susisiekite su mumis!
