@@ -61,7 +61,7 @@ sections:
           *   Perkant daugiau nei 5kg, vieno kilogramo kaina 5€
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Susi
             url: /features
             style: primary
         actions_align: left
