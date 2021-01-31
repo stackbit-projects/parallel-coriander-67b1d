@@ -40,7 +40,8 @@ sections:
         media_width: fifty
   - type: cta_section
     title: Norite sužinoti daugiau?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Apsilankykite skiltyje **Apie mus**.
     actions:
       - label: Compare Plans
         url: /pricing
