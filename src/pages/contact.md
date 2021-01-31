@@ -23,7 +23,7 @@ sections:
           > Šiauliai
 
           \+37061539726     Kęstutis
-        content_align: center
+        content_align: left
         actions:
           - label: Get Support
             url: /general-enquiries
