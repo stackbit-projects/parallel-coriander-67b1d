@@ -2,7 +2,7 @@
 title: Pagrindinis
 sections:
   - type: hero_section
-    title: V
+    title: Vasaros ūkis
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
