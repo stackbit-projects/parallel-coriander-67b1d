@@ -3,7 +3,7 @@ title: Apie mus
 sections:
   - type: hero_section
     title: Informacija apie ūkį
-    subtitle: Features Page Demo
+    subtitle: ''
     background_color: primary
   - type: features_section
     features:
