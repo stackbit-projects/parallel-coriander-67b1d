@@ -2,7 +2,7 @@
 title: Apie mus
 sections:
   - type: hero_section
-    title: Sužinokite pie mus
+    title: Sužinokite pie mus!
     subtitle: ''
     background_color: primary
   - type: features_section
