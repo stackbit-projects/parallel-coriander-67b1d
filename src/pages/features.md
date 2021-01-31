@@ -165,7 +165,7 @@ sections:
       Jei taip, gal norite žvilgtelėti į sarašą gamtos gėrybių kuriomis šiuo
       metu prekiaujame?
     actions:
-      - label: Asortimentas
+      - label: Su malonumu!
         url: /pricing
         style: primary
     actions_position: right
