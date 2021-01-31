@@ -164,7 +164,7 @@ sections:
     content: |
       Jei taip, nedvejodami susisiekite su mumis!
     actions:
-      - label: Compare Plans
+      - label: Susisiekti
         url: /pricing
         style: primary
     actions_position: right
