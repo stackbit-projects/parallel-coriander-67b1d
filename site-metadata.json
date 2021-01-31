@@ -82,7 +82,7 @@
             },
             {
                 "label": "Galerija",
-                "url": "lorem-ipsum",
+                "url": "/about",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
