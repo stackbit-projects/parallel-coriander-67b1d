@@ -7,7 +7,7 @@ sections:
     content: ''
     actions:
       - label: Atgal į pagrindinį
-        url: lorem-ipsum
+        url: /index
         style: primary
         has_icon: false
         icon: arrow-left
