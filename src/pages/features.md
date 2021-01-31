@@ -41,7 +41,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Prekia
+    title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
     grid_items:
       - content: >-
