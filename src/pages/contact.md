@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Susisiekite su mumis!
     subtitle: >-
-      Turite klausimų? Nedvejodami rašykite mums laišką arba susisiekite
-      telefonu.
+      Turite klausimų? Nedvejodami rašykite mums elektroninį laišką arba
+      susisiekite telefonu.
     align: center
     padding_top: small
     padding_bottom: small
