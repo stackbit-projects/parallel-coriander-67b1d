@@ -3,7 +3,7 @@ title: Laiškas
 sections:
   - type: hero_section
     title: Susisiekite!
-    subtitle: The optional subtitle
+    subtitle: ''
     align: center
     padding_top: medium
     padding_bottom: medium
