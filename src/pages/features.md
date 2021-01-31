@@ -45,8 +45,8 @@ sections:
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
     grid_items:
       - content: >
-          Gamtos bičiulis nuo mažens, studentas, uolus uogų rinkėjas, kartais
-          prei tinginio.
+          Gamtos bičiulis nuo mažens, studentas, uolus uogų rinkėjas, nors
+          kartais ir prie tinginio.
 
 
           **Vakaris,** *Vilnius*
