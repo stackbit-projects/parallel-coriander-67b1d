@@ -38,7 +38,7 @@ sections:
           žemiau esantį mygtuką, būsite nukreti į laiško formą.
         content_align: center
         actions:
-          - label: Get Support
+          - label: Rašyti
             url: /general-enquiries
             style: secondary
             has_icon: true
