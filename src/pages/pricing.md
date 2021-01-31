@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Šilauogės
-        subtitle: Didžiausios
+        subtitle: Didžiausios ir gardžiausios
         title_align: left
         content: |-
           ---
