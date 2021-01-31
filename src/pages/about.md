@@ -43,7 +43,7 @@ sections:
     content: |
       Apsilankykite skiltyje **Apie mus**.
     actions:
-      - label: Compare Plans
+      - label: Pirmyn!
         url: /pricing
         style: primary
     align: center
