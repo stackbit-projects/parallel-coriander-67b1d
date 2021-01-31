@@ -55,8 +55,8 @@ sections:
         title: ''
         subtitle: ''
       - content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          Užkietėjęs žvejys, nenuilstantis grybautojas, gamtos ir gyvūnų
+          draugas, tikra uogų rinkimo mašina.
 
 
           **Kęstutis,** *Šiauliai*
