@@ -24,13 +24,7 @@ sections:
 
           \+37061539726     Kęstutis
         content_align: left
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
         image: images/classic/icon-1.svg
         image_alt: Partnering and sponsorships icon
