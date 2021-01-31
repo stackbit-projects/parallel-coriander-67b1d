@@ -4,8 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - title: Ačiū!
     subtitle: "Dėkojame už jūsų prenumeratą!\_☺"
-    content: |
-      *
+    content: ''
     actions:
       - label: Atgal į pagrindinį
         url: lorem-ipsum
