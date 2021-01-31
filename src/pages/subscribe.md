@@ -3,7 +3,7 @@ title: Ačiū
 excerpt: lorem-ipsum
 sections:
   - title: Ačiū!
-    subtitle: lorem-ipsum
+    subtitle: 'Dėkojame už jūsų prenumeratą! :)'
     content: >-
       ## Lorem ipsum
 
