@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: (pieš
+      - title: (piešinys)
         subtitle: Didžiausios ir gardžiausios
         title_align: left
         content: |-
