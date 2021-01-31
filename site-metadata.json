@@ -52,19 +52,7 @@
         "logo_alt": "Vasaros ūkis",
         "has_primary_nav": true,
         "primary_nav_title": "  ",
-        "primary_nav_links": [
-            {
-                "label": "Apie mus",
-                "url": "/features",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
+        "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_title": "",
         "secondary_nav_links": [
