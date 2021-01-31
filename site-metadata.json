@@ -102,7 +102,7 @@
             {
                 "label": "YouTube",
                 "url": "https://www.facebook.com/",
-                "style": "link",
+                "style": "secondary",
                 "has_icon": true,
                 "icon": "facebook",
                 "icon_position": "center",
