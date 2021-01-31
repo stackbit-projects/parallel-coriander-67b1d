@@ -66,7 +66,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "Asortimentas",
+        "secondary_nav_title": "",
         "secondary_nav_links": [
             {
                 "label": "lorem-ipsum",
