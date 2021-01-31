@@ -34,7 +34,7 @@ sections:
       - input_type: text
         name: name
         label: Vardas
-        default_value: Jūsų vardas
+        default_value: Jūsų varies
         is_required: true
       - input_type: email
         name: email
