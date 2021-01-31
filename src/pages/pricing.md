@@ -76,7 +76,7 @@ sections:
     background_color: none
     title: ''
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: Dažnai užduodami klausimai
     grid_items:
       - title: Lorem ipsum dolor sit amet consectetur?
         content: >-
