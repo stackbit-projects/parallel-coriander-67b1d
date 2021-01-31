@@ -2,7 +2,7 @@
 title: Apie mus
 sections:
   - type: hero_section
-    title: Sužinokite apie mus!
+    title: Informacija
     subtitle: ''
     background_color: secondary
   - type: features_section
