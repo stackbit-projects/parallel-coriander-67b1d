@@ -53,6 +53,7 @@ sections:
         name: message
         label: Žinutė
         default_value: Your message
+        is_required: true
       - input_type: checkbox
         name: consent
         label: >-
