@@ -2,7 +2,7 @@
 title: Ačiū
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Ačiū!
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
