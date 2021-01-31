@@ -27,7 +27,7 @@ sections:
     submit_label: Prenumeruoti
     padding_top: medium
     padding_bottom: medium
-    has_border: true
+    has_border: false
     background_color: secondary
 template: advanced
 ---
