@@ -52,7 +52,7 @@ sections:
       - input_type: textarea
         name: message
         label: Žinutė
-        default_value: Your message
+        default_value: Jūsų žinutė
         is_required: true
       - input_type: checkbox
         name: consent
