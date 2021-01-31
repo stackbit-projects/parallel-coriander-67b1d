@@ -35,7 +35,7 @@ sections:
         title_align: center
         content: >
           Jeigu norite, galite parašyti mums elektroninį laišką. Paspaudus
-          žemiau esantį mygtuką, būsite nukreti į laiško formą.
+          žemiau esantį mygtuką, galėsite užpildyti laiško formą.
         content_align: center
         actions:
           - label: Rašyti
