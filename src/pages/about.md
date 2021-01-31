@@ -3,7 +3,7 @@ title: Galerija
 sections:
   - type: hero_section
     title: Nuotraukų galerija
-    subtitle: About Page Demo
+    subtitle: Vaizdai iš mūsų ūkio
     align: center
     background_color: secondary
   - type: features_section
