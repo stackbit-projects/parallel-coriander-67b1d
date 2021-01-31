@@ -162,7 +162,7 @@ sections:
   - type: cta_section
     title: Ar jau susipažinote su mūsų ūkiu?
     content: >
-      Jei taip, gal norite žvilgtelėtį į sarašą gamtos gėrybių kuriomis šiuo
+      Jei taip, gal norite žvilgtelėti į sarašą gamtos gėrybių kuriomis šiuo
       metu prekiaujame?
     actions:
       - label: Asortimentas
