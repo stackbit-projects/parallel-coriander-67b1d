@@ -11,7 +11,7 @@ sections:
     background_color: none
     actions:
       - label: Atgal į pagrindinį
-        url: '/ '
+        url: /index
         style: primary
         has_icon: false
         icon: arrow-left
