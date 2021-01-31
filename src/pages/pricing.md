@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: (piešinys)
-        subtitle: Didžiausios ir gardžiausios
+        subtitle: ''
         title_align: left
         content: |-
           ---
