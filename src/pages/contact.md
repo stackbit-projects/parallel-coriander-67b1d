@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Get in touch
+    title: Parašykite arba paskambinkite mums!
     subtitle: >-
       Have a question? Send us a note using the form below and we will be in
       touch soon.
