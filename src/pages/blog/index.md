@@ -29,6 +29,6 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
-    enable_card: true
+    enable_card: false
 template: advanced
 ---
