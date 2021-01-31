@@ -2,7 +2,7 @@
 title: Blogas
 sections:
   - type: hero_section
-    title: Blog
+    title: Blogas
     subtitle: The optional subtitle
     align: center
     padding_top: medium
