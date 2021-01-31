@@ -29,7 +29,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: (piešinys)
-        subtitle: Optional subtitle
+        subtitle: ''
         title_align: left
         content: |-
           ---
