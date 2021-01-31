@@ -12,7 +12,7 @@ sections:
     title: Norite sekti naujienas?
     title_align: center
     content: |
-      Prenumeruokite ir būsite informuoti kai įkelsime naujus įrašus.
+      Prenumeruokite ir infomuosime jus, kai ką nors parašysime.
     content_align: center
     form_position: bottom
     form_layout: inline
