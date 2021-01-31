@@ -16,7 +16,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: Atga
+      - label: Atgal  į pagrindinį
         url: lorem-ipsum
         style: link
         has_icon: false
