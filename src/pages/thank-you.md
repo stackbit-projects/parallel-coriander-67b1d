@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Atgal į pagrindinį
         url: /
-        style: secondary
+        style: primary
     align: center
     padding_bottom: large
     background_color: none
