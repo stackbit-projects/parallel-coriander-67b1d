@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Apie mus
 sections:
   - type: hero_section
     title: Explore Features
