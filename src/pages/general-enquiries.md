@@ -36,6 +36,8 @@ sections:
         label: Vardas
         default_value: Jūsų vardas
         is_required: true
+        options:
+          - lorem-ipsum
       - input_type: email
         name: email
         label: El. pašto adresas
