@@ -34,7 +34,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: J
+        default_value: Jūsų el. pašto
         is_required: true
     submit_label: Subscribe
     padding_top: medium
