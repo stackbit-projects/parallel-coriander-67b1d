@@ -164,7 +164,7 @@ sections:
     content: |
       Jei taip, nedvejodami susisiekite su mumis!
     actions:
-      - label: Susisiekti
+      - label: Asortimentas
         url: /pricing
         style: primary
     actions_position: right
