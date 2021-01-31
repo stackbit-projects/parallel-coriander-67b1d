@@ -42,7 +42,7 @@ sections:
           *   Perkant 5l ir daugiau, vieno litro kaina - 8€
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: ''
             url: /features
             style: primary
         actions_align: left
