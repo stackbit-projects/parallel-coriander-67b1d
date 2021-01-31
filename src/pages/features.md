@@ -44,8 +44,10 @@ sections:
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
     grid_items:
-      - content: |
-          Uolus uogų rinkėjas, nors kartais ir prie tinginio.
+      - content: >
+          Gamtos bičiulis nuo mažens, studentas, uolus uogų rinkėjas, kartais
+          prei tinginio.
+
 
           **Vakaris,** *Vilnius*
         image: images/eleanor-carr.png
