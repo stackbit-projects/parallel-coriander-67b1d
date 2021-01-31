@@ -4,7 +4,7 @@ excerpt: ''
 sections:
   - type: hero_section
     title: Ačiū!
-    subtitle: D
+    subtitle: Dėkojame
     align: center
     padding_top: medium
     padding_bottom: none
