@@ -2,7 +2,7 @@
 title: Asortimentas
 sections:
   - type: hero_section
-    title: Parduodamos gė
+    title: Parduodamos gėrybės
     subtitle: Optional hero section subtitle
     align: center
     padding_top: large
