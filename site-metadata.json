@@ -71,7 +71,7 @@
         "tertiary_nav_title": "Navigacija",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
+                "label": "Apie mus",
                 "url": "/terms-conditions",
                 "style": "link"
             },
