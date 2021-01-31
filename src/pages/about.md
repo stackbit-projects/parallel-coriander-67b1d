@@ -39,7 +39,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: cta_section
-    title: Norite sužinoti daugiau?
+    title: Norite labiau pažinti mūsų ūkį?
     content: |
       Apsilankykite skiltyje **Apie mus**.
     actions:
