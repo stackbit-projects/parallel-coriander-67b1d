@@ -10,7 +10,7 @@ sections:
     padding_bottom: none
     background_color: none
     actions:
-      - label: lorem-ipsum
+      - label: Atgal į pagrindinį
         url: lorem-ipsum
         style: primary
         has_icon: false
