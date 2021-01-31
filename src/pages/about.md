@@ -1,5 +1,5 @@
 ---
-title: About
+title: Galerija
 sections:
   - type: hero_section
     title: About
