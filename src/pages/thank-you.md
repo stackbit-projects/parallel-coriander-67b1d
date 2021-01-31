@@ -4,7 +4,7 @@ excerpt: ''
 sections:
   - type: hero_section
     title: Ačiū!
-    subtitle: 'Deja, šiuo metu jokių įrašų nėra.'
+    subtitle: D
     align: center
     padding_top: medium
     padding_bottom: none
