@@ -2,7 +2,7 @@
 title: Apie mus
 sections:
   - type: hero_section
-    title: Explore Features
+    title: Informacija spie ūkį
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
