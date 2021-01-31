@@ -66,13 +66,7 @@
         ],
         "has_secondary_nav": true,
         "secondary_nav_title": "",
-        "secondary_nav_links": [
-            {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
-                "style": "link"
-            }
-        ],
+        "secondary_nav_links": [],
         "has_tertiary_nav": true,
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
