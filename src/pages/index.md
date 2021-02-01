@@ -21,7 +21,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
     has_border: false
   - type: features_section
     title: Features Section
