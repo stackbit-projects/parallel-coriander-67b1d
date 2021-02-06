@@ -94,7 +94,7 @@ sections:
 
 
           **Vakaris,** *Vilnius*
-        image: images/unknown-person-icon-Image-from.png
+        image: images/357-3579339_unknown-person-icon-png-wordpress-clipart.jpg
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
