@@ -69,7 +69,7 @@ sections:
         align: left
         type: feature
         image: images/lion-hd-2K-wallpaper.jpg
-      - title: ''
+      - title: ve
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
