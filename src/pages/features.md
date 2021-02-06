@@ -56,17 +56,11 @@ sections:
         image: images/kaciukas.jpg
       - title: Šilauogių laukai
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Lorem ipsum
+          *   dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
