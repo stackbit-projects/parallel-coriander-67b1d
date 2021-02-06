@@ -83,7 +83,7 @@ sections:
           Mūsų bitės medų neša iš aplinkinių pievų bei čia pat esančio miško.
           Laukuose auga vaismedžiai, uogų ir riešutų krūmai, dobilai, gėlės.
           Apylinkėje nėra nei grikių, nei pievų rapsų.
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: Ar uogos auginamos natūraliai?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
