@@ -81,15 +81,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    features:
-      - title: >-
-          “lllLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-          nisl ligula, cursus id molestie vel.”
-        subtitle: 'Will Smith, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
+    features: []
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
