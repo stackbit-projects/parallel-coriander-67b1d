@@ -157,7 +157,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
+    title: Atsiliepimai
     subtitle: Grid Section Example
     grid_items:
       - content: >-
