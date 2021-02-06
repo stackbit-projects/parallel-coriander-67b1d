@@ -208,10 +208,7 @@ sections:
   - type: cta_section
     title: ''
     content: ''
-    actions:
-      - label: Mygtukas
-        url: /features
-        style: secondary
+    actions: []
     actions_position: right
     actions_width: fourty
     align: left
