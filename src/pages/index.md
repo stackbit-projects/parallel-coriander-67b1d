@@ -67,7 +67,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         actions:
-          - label: Learn More
+          - label: Mygtukas
             url: /style-guide
             style: primary
             has_icon: true
