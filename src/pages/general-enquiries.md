@@ -20,9 +20,8 @@ sections:
       ### Duomenų sauga.
 
 
-      Informuojame, jog jūsų pateikti duomenys yra užkoduojami ir laikomi
-      saugioje duomenų bazėje. Juos pasiekti gali tik žmogus, atsakingas už
-      komunikaciją.
+      Informuojame, jog jūsų pateikti duomenys yra saugomi. Juos pasiekti gali
+      tik žmogus, atsakingas už komunikaciją.
     content_align: left
     form_position: right
     form_width: fifty
