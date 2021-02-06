@@ -11,7 +11,7 @@ sections:
       - label: Mygtukas1
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Mygtukas2
         url: /features
         style: secondary
     image: images/Background Layer.png
