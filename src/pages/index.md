@@ -12,7 +12,7 @@ sections:
         url: /pricing
         style: primary
       - label: Noriu susisiekti
-        url: /features
+        url: /contact
         style: secondary
     image: images/Background Layer.png
     image_alt: Hero section placeholder image
