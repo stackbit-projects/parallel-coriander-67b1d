@@ -76,6 +76,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/lion-hd-2K-wallpaper.jpg
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
