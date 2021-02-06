@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Bičių namai
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: ''
         content: >
           Mūsų ūkyje gyvena 12 bičių šeimų, kurios vasaros metu nenuilsdamos
           neša medų ir kaupia savo aviliuose.
