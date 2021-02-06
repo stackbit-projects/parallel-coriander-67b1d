@@ -84,7 +84,7 @@ sections:
     padding_bottom: none
   - type: grid_section
     title: Nuorodos
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - title: Section Item 1
         title_align: left
