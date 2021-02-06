@@ -54,7 +54,7 @@ sections:
         align: left
         type: feature
         image: images/kaciukas.jpg
-      - title: lorem-ipsum
+      - title: Šilauogių laukai
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
