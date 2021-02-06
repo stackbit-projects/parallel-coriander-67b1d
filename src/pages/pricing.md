@@ -97,8 +97,9 @@ sections:
 
           Medus išlieka šviežus ilgą laiką. 
       - title: Negaliu atvykti į sutartą vietą. Ar galite pristatyti į namus?
-        content: |
-          Jeigu perkate daugiau nei už 50
+        content: >
+          Jeigu jūsų užsakymas siekia 50€, galima tartis dėl asmeninio
+          pristatymo. Taip pat, produktus galime atvežti už papildomą mokestį.
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
