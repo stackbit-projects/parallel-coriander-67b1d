@@ -80,7 +80,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    has_border: true
+    has_border: false
   - type: features_section
     features: []
     feature_padding_vert: small
