@@ -206,16 +206,6 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: ''
-    content: ''
-    actions: []
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: none
-    padding_bottom: large
-    background_color: primary
-  - type: cta_section
     title: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
