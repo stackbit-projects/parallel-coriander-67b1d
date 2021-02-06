@@ -96,7 +96,7 @@ sections:
 
 
           Medus išlieka šviežus ilgą laiką. 
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+      - title: Negaliu atvykti į sutartą vietą. Ar galite pristatyti į namus?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
