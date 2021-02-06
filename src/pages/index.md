@@ -171,7 +171,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Klientas,** *CEO, Studio*
+          **Klientas,** Agne
         image: images/Background Layer copy.png
         image_alt: Miles Tone
         image_position: left
