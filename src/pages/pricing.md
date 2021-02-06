@@ -88,7 +88,7 @@ sections:
           Taip! Mes visad buvome, esame ir būsime natūralių bei sveikų maisto
           produktų šalininkai. Mūsų ūkis nenaudoja trašų, o išdygusias piktžoles
           ravime rankomis. Taip užtikriname, jog mūsų parduodami gamtos turtai
-          yra sveiki, tokie, kokius sutvėrė gamta.
+          yra sveiki, tokie, kokius užaugino gamta.
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
