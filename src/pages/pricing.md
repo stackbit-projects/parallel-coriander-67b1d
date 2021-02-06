@@ -105,7 +105,7 @@ sections:
           Medus parduodamas 1l stikliniuose indeliuose. Uogos - 1kg
           plastikiniuose indeliuose su dangteliu. Perkant didesnį kiekį
           (šaldymui), siūlome turėti savo tarą. 
-        subtitle: D.U.K
+        subtitle: ''
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
