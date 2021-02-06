@@ -27,7 +27,7 @@ sections:
     title: Naudinga informacija
     subtitle: ''
     features:
-      - title: Kas mes?
+      - title: Kas mes
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
