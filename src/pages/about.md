@@ -13,7 +13,7 @@ sections:
         content: ''
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
-        media_position: right
+        media_position: left
         media_width: fifty
       - title: ''
         subtitle: ''
