@@ -5,8 +5,8 @@ sections:
     title: Vasaros ūkis
     subtitle: Lorem ipsum dolor sit amet
     content: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Šaltuoju sezono metu, uogomis bei kitomis gamtos gėrybėmis neprekiaujame.
+      Kviečiame pas mus užsukti vasara.
     actions:
       - label: Mygtukas1
         url: /pricing
