@@ -80,7 +80,7 @@ sections:
         image_alt: lorem-ipsum
         video_embed_html: ''
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/ozys.jpeg
