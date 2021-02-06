@@ -80,9 +80,9 @@ sections:
     grid_items:
       - title: Koks gi tas jūsų medus?
         content: >
-          Mūsų bitės ir savo pačių šeimininkės, todėl medų neša iš aplinkinių
-          pievų bei čia pat esančio miško. Laukuose auga vaismedžiai, uogų ir
-          riešutų krūmai, dobilai, gėlės. Apylinkėje nėra grikių.
+          Mūsų bitės medų neša iš aplinkinių pievų bei čia pat esančio miško.
+          Laukuose auga vaismedžiai, uogų ir riešutų krūmai, dobilai, gėlės.
+          Apylinkėje nėra nei grikių, nei pievų rapsų.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
