@@ -91,11 +91,11 @@ sections:
           yra sveiki, tokie, kokius užaugino gamta.
       - title: Ar produktai visad šviežūs?
         content: >
-          Taip! Uogas bei vaisius renkame ir pristatome tą pačią dieną taip
-          užtikrindami šviežumą.
+          Taip! Uogas ir vaisius renkame ir pristatome tą pačią dieną. Taip
+          užtikriname gėrybių šviežumą, struktūrą bei tyrą skonį.
 
 
-          Medus išlieka šviežus ilgą laiką.
+          Medus išlieka šviežus ilgą laiką. 
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
