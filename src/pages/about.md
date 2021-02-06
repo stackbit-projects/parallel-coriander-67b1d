@@ -10,10 +10,9 @@ sections:
     features:
       - title: Bičių namai
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Mūsų ūkyje gyvena 12 bičių šeimų, kurios vasaros metu nenuilsdamos
+          neša medų ir kaupia savo aviliuose.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
