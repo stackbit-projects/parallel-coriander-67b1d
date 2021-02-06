@@ -42,17 +42,10 @@ sections:
         media_width: fifty
       - title: Bičių namai
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Mūsų ūkyje gyvena 12 bičių šeimų, kurios vasaros metu nenuilsdamos
+          neša medų ir kaupia jį savo aviliuose. Bitės draugiškos, todėl mielai
+          dalinasi medumi su mumis.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
