@@ -181,7 +181,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Klientas,** *CTO, Studio*
+          **Klientas**
         image: images/Background Layer copy.png
         image_alt: Eleanor Carr
         image_position: left
