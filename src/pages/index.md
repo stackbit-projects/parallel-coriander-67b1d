@@ -86,7 +86,7 @@ sections:
     title: Nuorodos
     subtitle: ''
     grid_items:
-      - title: Section Item 1
+      - title: Susisiekite
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
