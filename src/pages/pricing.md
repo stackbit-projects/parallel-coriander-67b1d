@@ -89,7 +89,7 @@ sections:
           produktų šalininkai. Mūsų ūkis nenaudoja trašų, o išdygusias piktžoles
           ravime rankomis. Taip užtikriname, jog mūsų parduodami gamtos turtai
           yra sveiki, tokie, kokius užaugino gamta.
-      - title: Viverra nam libero justo laoreet sit?
+      - title: Ar produktai visad šviežūs?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
