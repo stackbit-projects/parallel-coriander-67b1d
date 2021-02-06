@@ -79,10 +79,10 @@ sections:
     title: Dažnai užduodami klausimai
     grid_items:
       - title: Koks gi tas jūsų medus?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Mūsų bitės ir savo pačių šeimininkės, todėl medų neša iš aplinkinių
+          pievų bei čia pat esančio miško. Laukuose auga vaismedžiai, uogų ir
+          riešutų krūmai, dobilai, gėlės. Apylinkėje nėra grikių.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
