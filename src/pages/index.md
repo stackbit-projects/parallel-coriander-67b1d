@@ -8,7 +8,7 @@ sections:
       Šaltuoju sezono metu, uogomis bei kitomis gamtos gėrybėmis neprekiaujame.
       Kviečiame pas mus užsukti vasara.
     actions:
-      - label: Parduotuvė
+      - label: ''
         url: /pricing
         style: primary
       - label: Noriu susisiekti
