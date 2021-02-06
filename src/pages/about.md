@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Bičių namai
+      - title: ''
         subtitle: ''
         content: ''
         image: images/about-5.jpg
