@@ -101,10 +101,8 @@ sections:
           Jeigu jūsų užsakymas siekia 50€, galima tartis dėl asmeninio
           pristatymo. Taip pat, produktus galime atvežti už papildomą mokestį.
       - title: Kokioje pakuotėje parduodate uogas ir medų?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: |
+          Medus parduodamas
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
