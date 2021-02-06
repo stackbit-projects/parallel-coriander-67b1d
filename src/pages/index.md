@@ -11,7 +11,7 @@ sections:
       - label: Parduotuvė
         url: /pricing
         style: primary
-      - label: Mygtukas2
+      - label: Noriu susisiekti
         url: /features
         style: secondary
     image: images/Background Layer.png
