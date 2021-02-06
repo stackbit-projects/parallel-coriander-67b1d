@@ -34,7 +34,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         actions:
-          - label: Learn More
+          - label: Mygtukas
             url: /style-guide
             style: primary
             has_icon: true
