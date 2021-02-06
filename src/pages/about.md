@@ -15,7 +15,7 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-      - title: Šilauogių laukai
+      - title: ''
         subtitle: ''
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
