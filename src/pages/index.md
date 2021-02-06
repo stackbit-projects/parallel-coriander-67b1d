@@ -166,7 +166,7 @@ sections:
 
 
           **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
+        image: images/Background Layer copy.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
