@@ -24,7 +24,7 @@ sections:
     background_color: primary
     has_border: false
   - type: features_section
-    title: Features Section
+    title: Naudinga informacija
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
