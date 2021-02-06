@@ -83,7 +83,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/ozys.jpeg
+        image: images/Depositphotos_43121675_l-2015.jpg
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
