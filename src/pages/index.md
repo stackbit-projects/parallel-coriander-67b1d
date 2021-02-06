@@ -81,6 +81,7 @@ sections:
     align: center
     background_color: secondary
     has_border: false
+    padding_bottom: large
   - type: features_section
     features: []
     feature_padding_vert: small
