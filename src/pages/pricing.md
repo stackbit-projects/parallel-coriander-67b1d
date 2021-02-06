@@ -84,10 +84,8 @@ sections:
           Laukuose auga vaismedžiai, uogų ir riešutų krūmai, dobilai, gėlės.
           Apylinkėje nėra nei grikių, nei pievų rapsų.
       - title: Ar uogos auginamos natūraliai?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Taip! 
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
