@@ -82,7 +82,7 @@ sections:
         content: >
           Mūsų bitės medų neša iš aplinkinių pievų bei čia pat esančio miško.
           Laukuose auga vaismedžiai, uogų ir riešutų krūmai, dobilai, gėlės.
-          Apylinkėje nėra nei grikių, nei pievų rapsų.
+          Greta neauga nei grikiai, nei pievų rapsai.
       - title: Ar uogos auginamos natūraliai?
         content: >
           Taip! Mes visad buvome, esame ir būsime natūralių bei sveikų maisto
