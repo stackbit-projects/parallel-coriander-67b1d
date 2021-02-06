@@ -97,11 +97,8 @@ sections:
 
           Medus išlieka šviežus ilgą laiką. 
       - title: Negaliu atvykti į sutartą vietą. Ar galite pristatyti į namus?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: |
+          Jeigu perkate daugiau nei už 50
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
