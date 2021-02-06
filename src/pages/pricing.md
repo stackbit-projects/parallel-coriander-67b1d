@@ -76,7 +76,7 @@ sections:
     background_color: none
     title: ''
   - type: grid_section
-    title: Dažnai užduodami klausimai
+    title: Dažniausiai užduodami klausimai
     grid_items:
       - title: Koks gi tas jūsų medus?
         content: >
