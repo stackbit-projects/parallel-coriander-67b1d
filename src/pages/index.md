@@ -176,7 +176,7 @@ sections:
 
 
           **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
+        image: images/Background Layer copy.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
