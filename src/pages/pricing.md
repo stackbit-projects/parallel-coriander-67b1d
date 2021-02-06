@@ -114,6 +114,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-    subtitle: DUK
+    subtitle: ''
 template: advanced
 ---
