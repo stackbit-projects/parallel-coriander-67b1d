@@ -27,7 +27,7 @@ sections:
     title: Naudinga informacija
     subtitle: ''
     features:
-      - title: The Big Title For the Feature
+      - title: Info skiltis
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
