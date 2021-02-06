@@ -84,8 +84,11 @@ sections:
           Laukuose auga vaismedžiai, uogų ir riešutų krūmai, dobilai, gėlės.
           Apylinkėje nėra nei grikių, nei pievų rapsų.
       - title: Ar uogos auginamos natūraliai?
-        content: |
-          Taip! 
+        content: >
+          Taip! Mes visad buvome, esame ir būsime natūralių bei sveikų maisto
+          produktų šalininkai. Mūsų ūkis nenaudoja trašų, o išdygusias piktžoles
+          ravime rankomis. Taip užtikriname, jog mūsų parduodami gamtos turtai
+          yra sveiki, tokie, kokius sutvėrė gamta.
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
