@@ -71,7 +71,7 @@ sections:
         image_alt: lorem-ipsum
         video_embed_html: ''
         media_position: right
-        media_width: fourty
+        media_width: fifty
         align: left
         type: feature
         image: images/lion-hd-2K-wallpaper.jpg
