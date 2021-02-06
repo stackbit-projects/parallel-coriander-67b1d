@@ -196,7 +196,7 @@ sections:
 
 
           **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
+        image: images/Background Layer copy.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
