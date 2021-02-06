@@ -206,7 +206,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    title: ''
     content: ''
     actions:
       - label: Mygtukas
