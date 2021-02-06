@@ -83,7 +83,7 @@ sections:
     has_border: false
     padding_bottom: none
   - type: grid_section
-    title: Cards Grid Section
+    title: Nuorodos
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
