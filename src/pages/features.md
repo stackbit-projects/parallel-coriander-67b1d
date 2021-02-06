@@ -62,6 +62,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/kaciukas.jpg
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
