@@ -101,8 +101,10 @@ sections:
           Jeigu jūsų užsakymas siekia 50€, galima tartis dėl asmeninio
           pristatymo. Taip pat, produktus galime atvežti už papildomą mokestį.
       - title: Kokioje pakuotėje parduodate uogas ir medų?
-        content: |
-          Medus parduodamas
+        content: >
+          Medus parduodamas 1l stikliniuose indeliuose. Uogos - 1kg
+          plastikiniuose indeliuose su dangteliu. Perkant didesnį kiekį
+          (šaldymui), siūlome turėti savo tarą. 
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
