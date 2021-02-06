@@ -83,8 +83,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.”
+          “lllLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
+          nisl ligula, cursus id molestie vel.”
         subtitle: 'Will Smith, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
