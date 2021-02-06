@@ -3,7 +3,7 @@ title: Pagrindinis
 sections:
   - type: hero_section
     title: Vasaros ūkis
-    subtitle: Su meile užaugintos uogos bei tyras miško bičių medus.
+    subtitle: Naminės uogos bei tyras miško bičių medus.
     content: >
       Šaltuoju sezono metu, uogomis bei kitomis gamtos gėrybėmis neprekiaujame.
       Kviečiame pas mus užsukti vasara.
