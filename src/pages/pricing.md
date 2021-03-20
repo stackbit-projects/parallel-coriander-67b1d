@@ -9,8 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: (piešinys)
-        subtitle: ''
+      - subtitle: ''
         title_align: left
         content: |
           ***
