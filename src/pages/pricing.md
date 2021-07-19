@@ -27,7 +27,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/33.png
+        image: images/55.png
       - title: (piešinys)
         subtitle: ''
         title_align: left
