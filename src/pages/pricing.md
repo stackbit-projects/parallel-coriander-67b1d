@@ -27,7 +27,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/clever-saturn.png
+        image: images/33.png
       - title: (piešinys)
         subtitle: ''
         title_align: left
