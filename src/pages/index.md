@@ -141,7 +141,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/newMouse.png
+        image: images/emailIconFinal.png
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
