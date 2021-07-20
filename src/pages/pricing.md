@@ -73,7 +73,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    title: wec
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
