@@ -162,7 +162,7 @@ sections:
 
 
           **Klientas**
-        image: images/Background Layer copy.png
+        image: images/groovy-mahogany.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
