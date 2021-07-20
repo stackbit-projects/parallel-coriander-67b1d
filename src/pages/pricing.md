@@ -46,7 +46,6 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/honey1.png
       - subtitle: ''
         title_align: left
         content: |
