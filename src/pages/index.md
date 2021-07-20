@@ -182,7 +182,7 @@ sections:
 
 
           **Klientas**
-        image: images/singleberry.jpg
+        image: images/groovy-mahogany.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
