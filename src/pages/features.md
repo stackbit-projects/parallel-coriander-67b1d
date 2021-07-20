@@ -106,7 +106,7 @@ sections:
 
 
           **Kęstutis,** *Šiauliai*
-        image: images/Background Layer copy.png
+        image: images/groovy-mahogany.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
