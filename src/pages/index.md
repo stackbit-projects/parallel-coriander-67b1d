@@ -172,7 +172,7 @@ sections:
 
 
           **Klientas,** Agne
-        image: images/Background Layer copy.png
+        image: images/groovy-mahogany.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
