@@ -46,6 +46,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
+        image: images/Background Layer copy.jpg
       - subtitle: ''
         title_align: left
         content: |
