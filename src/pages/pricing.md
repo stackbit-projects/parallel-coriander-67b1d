@@ -28,8 +28,7 @@ sections:
         actions_align: left
         actions_width: full-width
         image: images/3.png
-      - title: (piešinys)
-        subtitle: ''
+      - subtitle: ''
         title_align: left
         content: |
           ***
