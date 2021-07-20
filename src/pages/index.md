@@ -192,7 +192,7 @@ sections:
 
 
           **Klientas**
-        image: images/Background Layer.jpg
+        image: images/groovy-mahogany.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
