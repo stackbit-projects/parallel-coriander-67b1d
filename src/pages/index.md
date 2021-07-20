@@ -14,7 +14,6 @@ sections:
       - label: Noriu susisiekti
         url: /contact
         style: secondary
-    image: images/Background Layer.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
