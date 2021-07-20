@@ -74,6 +74,16 @@ sections:
     has_border: false
     background_color: none
     title: ''
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - type: grid_section
     title: Dažniausiai užduodami klausimai
     grid_items:
