@@ -22,6 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
     has_border: false
+    image: images/dreamstime_m_220752891.jpg
   - type: features_section
     title: Naudinga informacija
     subtitle: ''
