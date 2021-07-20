@@ -94,7 +94,7 @@ sections:
 
 
           **Vakaris,** *Vilnius*
-        image: images/Background Layer copy.png
+        image: images/groovy-mahogany.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
