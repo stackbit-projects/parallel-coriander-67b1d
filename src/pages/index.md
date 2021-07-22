@@ -4,8 +4,6 @@ sections:
   - type: hero_section
     title: Vasaros ūkis
     subtitle: Naminės uogos bei tyras miško bičių medus.
-    content: |
-      \---
     actions:
       - label: Asortimentas
         url: /pricing
