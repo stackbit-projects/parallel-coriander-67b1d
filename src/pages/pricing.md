@@ -65,7 +65,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/sausmedziai1.png
+        image: images/sausą.png
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
