@@ -22,10 +22,9 @@ sections:
         media_width: fifty
         image: images/New Group.png
       - title: Sausmedžių alėja
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Sausmedžiai, tai naujas mūsų atradimas. Uogos turi išskirtinį ir labai
+          išraiškingą skonį. Be to, ir vitaminų jose tikrai netrūksta.
         image: images/99.png
         image_alt: Happy co-workers
         media_position: right
