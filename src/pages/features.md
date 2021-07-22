@@ -8,8 +8,10 @@ sections:
   - type: features_section
     features:
       - title: Mūsų nuostabi komanda
-        content: |
-          Ūkio šeimininkai - Paulavičių šeima. 
+        content: >
+          Ūkio šeimininkai - Paulavičių šeima. Siekiant užtikrinti aukščiausią
+          produktų kokybę, ūkyje nuolatos darbuojasi šeimos nariai. Į pagalbą
+          neretai prisijungia seneliai ir močiutės.
         image: images/99.png
         image_alt: Top view of business meeting
         media_position: right
