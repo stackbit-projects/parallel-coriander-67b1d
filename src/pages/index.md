@@ -159,8 +159,8 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          Dangiško skonio uogos ir asmeninis pristatymas į namus. Ar gali būti
+          kas nors geriau.
 
 
           **Agnė**
