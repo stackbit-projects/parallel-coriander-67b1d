@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Vasaros ūkis
     subtitle: Naminės uogos bei tyras miško bičių medus.
-    content: >
-      Šaltuoju sezono metu, uogomis bei kitomis gamtos gėrybėmis neprekiaujame.
-      Kviečiame pas mus užsukti vasara.
+    content: |
+      Šiuo metu turime šilauogių bei šviežaus miško bičių medaus.
     actions:
       - label: Asortimentas
         url: /pricing
