@@ -49,7 +49,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/kaciukas.jpg
+        image: images/99.png
       - title: Šilauogių laukai
         subtitle: lorem-ipsum
         content: |
