@@ -102,6 +102,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/marvelous-iron.png
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
