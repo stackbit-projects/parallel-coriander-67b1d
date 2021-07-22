@@ -52,11 +52,6 @@ sections:
         image: images/99.png
       - title: Šilauogių laukai
         subtitle: lorem-ipsum
-        content: |
-
-
-          *   Lorem ipsum
-          *   dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
