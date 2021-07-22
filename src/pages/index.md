@@ -159,8 +159,8 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          > Dangiško skonio uogos ir asmeninis pristatymas į namus. Vasaros ūkio
-          šilauogėms, mano manymu, lygių kol kas tikrai nėra.
+          > Dangiško skonio uogos ir asmeninis pristatymas į namus. Vasaros
+          ūkiui bei jo šilauogėms, mano manymu, lygių kol kas tikrai nėra.
 
 
           **Agnė**
