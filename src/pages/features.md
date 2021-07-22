@@ -43,16 +43,6 @@ sections:
         align: left
         type: feature
         image: images/99.png
-      - title: Šilauogių laukai
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: ''
-        media_position: right
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/99.png
-        subtitle: 'jm, '
       - title: Tvenkinių tvenkiniai
         actions: []
         image_alt: lorem-ipsum
