@@ -21,7 +21,7 @@ sections:
           fringilla, fringilla.
         media_position: left
         media_width: fifty
-        image: images/rainy-thyme.png
+        image: images/New Group.png
       - title: Sausmedžių alėja
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
