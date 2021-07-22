@@ -48,7 +48,7 @@ sections:
           Vasaros metu prekiaujame šviežiomis sausmedžių ir šilauogių uogomis.
           Taip pat, rudenį ir pavasarį turime šviežaus miško bičių medaus.
         actions:
-          - label: Mygtukas
+          - label: Asortimentas
             url: /pricing
             style: primary
             has_icon: true
