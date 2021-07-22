@@ -149,8 +149,8 @@ sections:
     subtitle: ''
     grid_items:
       - content: >
-          > Uogas naudojau kaip torto papuošimą dukros gimtadieniui. Svečiai
-          buvo nustebinti uogų dydžiu ir skoniu. Labai jums ačiū!
+          > Uogas naudojau kaip torto papuošimą dukros gimtadieniui. Svečiai ir
+          vaikai buvo nustebinti uogų dydžiu ir skoniu. Labai jums ačiū!
 
 
           **Ivona**
