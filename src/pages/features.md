@@ -85,7 +85,6 @@ sections:
         type: feature
         image: images/terrific-velociraptor.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
