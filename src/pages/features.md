@@ -16,7 +16,7 @@ sections:
         media_width: fifty
       - title: Ūkio lokacija
         content: >
-          Mūsų ūkis randasi šalia miestelio pavadinimu Giedraičiai. Tai Molėtų
+          Mūsų ūkis gyvuoja netoli miestelio pavadinimu Giedraičiai. Tai Molėtų
           rajono savivaldybė.
         media_position: left
         media_width: fifty
