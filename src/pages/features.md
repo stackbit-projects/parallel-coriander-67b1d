@@ -76,7 +76,7 @@ sections:
         image: images/99.png
         subtitle: >-
           Mūsų ūkyje yra net keturi tvenkiniai. Kiekvienas iš jų, kartu su
-          bendra laistymo sistema užtikrina, jog net karčiausiomis vasaros
+          bendra laistymo sistema, užtikrina, jog net karčiausiomis vasaros
           dienomis, mūsų aug
   - type: grid_section
     title: Prekiautojai
