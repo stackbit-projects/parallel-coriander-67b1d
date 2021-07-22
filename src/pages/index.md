@@ -159,8 +159,9 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          Dangiško skonio uogos ir asmeninis pristatymas į namus. Ar gali būti
-          kas nors geriau.
+          > Dangiško skonio uogos ir asmeninis pristatymas į namus. Ar gali būti
+          kas nors geriau? Gal ir gali, tačiau Vasaros ūkio šilauogėms lygių kol
+          kas tikrai nėra.
 
 
           **Agnė**
