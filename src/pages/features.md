@@ -64,7 +64,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/lion-hd-2K-wallpaper.jpg
+        image: images/99.png
       - title: Tvenkinių tvenkiniai
         subtitle: lorem-ipsum
         content: |
