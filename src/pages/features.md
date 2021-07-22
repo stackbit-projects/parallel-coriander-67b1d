@@ -37,7 +37,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: Bičių namai
-        subtitle: lorem-ipsum
         content: >
           Mūsų ūkyje gyvena 12 bičių šeimų, kurios vasaros metu nenuilsdamos
           neša medų ir kaupia jį savo aviliuose. Bitės draugiškos, todėl mielai
