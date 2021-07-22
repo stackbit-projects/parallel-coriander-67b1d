@@ -69,22 +69,6 @@ sections:
         type: feature
         image: images/splendid-spinach.png
       - title: Tvenkinių tvenkiniai
-        subtitle: lorem-ipsum
-        content: >
-          Mūsų ūkyje yra net keturi tvenkiniai. Kiekvienas iš jų, kartu su
-          bendra laistymo sistema, užtikrina, jog net ir karčiausiomis vasaros
-          dienomis augalams netruktų drėgmės bei mineralų.
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/terrific-velociraptor.png
-      - title: Tvenkinių tvenkiniai
         content: >
           Mūsų ūkyje yra net keturi tvenkiniai. Kiekvienas iš jų, kartu su
           bendra laistymo sistema, užtikrina, jog net ir karčiausiomis vasaros
