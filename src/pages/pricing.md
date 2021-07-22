@@ -46,7 +46,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/Background Layer copy.jpg
+        image: images/jarHoney.png
       - subtitle: ''
         title_align: left
         content: |
