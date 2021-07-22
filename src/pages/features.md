@@ -15,10 +15,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Ūkio lokacija
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Mūsų ūkis randasi šalia miestelio pavadinimu Giedraičiai. Tai Molėtų
+          rajono savivaldybė.
         media_position: left
         media_width: fifty
         image: images/New Group.png
