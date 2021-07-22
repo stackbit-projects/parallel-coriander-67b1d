@@ -77,7 +77,7 @@ sections:
         subtitle: >-
           Mūsų ūkyje yra net keturi tvenkiniai. Kiekvienas iš jų, kartu su
           bendra laistymo sistema, užtikrina, jog net ir karčiausiomis vasaros
-          dienomis, mūsų aug
+          dienomis, 
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
