@@ -27,7 +27,7 @@ sections:
         media_width: fifty
         image: images/rainy-thyme.png
       - title: Sausmedžių alėja
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: 'tie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
