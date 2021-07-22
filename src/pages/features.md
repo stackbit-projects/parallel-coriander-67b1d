@@ -84,7 +84,7 @@ sections:
         align: left
         type: feature
         image: images/terrific-velociraptor.png
-      - title: lorem-ipsum
+      - title: Tvenkinių tvenkiniai
         content: >
           Mūsų ūkyje yra net keturi tvenkiniai. Kiekvienas iš jų, kartu su
           bendra laistymo sistema, užtikrina, jog net ir karčiausiomis vasaros
