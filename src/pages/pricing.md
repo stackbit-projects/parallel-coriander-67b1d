@@ -98,8 +98,9 @@ sections:
           Medus išlieka šviežus ilgą laiką. 
       - title: Negaliu atvykti į sutartą vietą. Ar galite pristatyti į namus?
         content: >
-          Jeigu jūsų užsakymas siekia 50€, galima tartis dėl asmeninio
-          pristatymo. Taip pat, produktus galime atvežti už papildomą mokestį.
+          Jeigu jūsų užsakymo suma siekia 50€, galima tartis dėl asmeninio
+          pristatymo. Taip pat, produktus į jūsų pageidaujamą vietą galime
+          atvežti už papildomą mokestį.
       - title: Kokioje pakuotėje parduodate uogas ir medų?
         content: >
           Medus parduodamas 1l stiklainiuose. Uogos - 1kg plastikiniuose
