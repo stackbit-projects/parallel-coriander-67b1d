@@ -58,6 +58,7 @@ sections:
         align: left
         type: feature
         image: images/99.png
+        subtitle: 'jm, '
       - title: Tvenkinių tvenkiniai
         actions: []
         image_alt: lorem-ipsum
