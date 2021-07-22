@@ -83,6 +83,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/terrific-velociraptor.png
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
