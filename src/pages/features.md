@@ -73,7 +73,7 @@ sections:
         actions: []
         media_position: right
         media_width: fifty
-        align: center
+        align: left
         type: feature
         image: images/splendid-spinach.png
   - type: grid_section
