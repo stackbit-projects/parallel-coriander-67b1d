@@ -178,12 +178,10 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: |
+          Nepaprastai skanios šilauogės ir sausmedžių uogos. Labai rekomenduoju.
 
-
-          **Klientas**
+          **Gabrielė**
         image: images/groovy-mahogany.png
         image_alt: Gordon Norman
         image_position: left
