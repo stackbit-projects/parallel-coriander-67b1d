@@ -85,17 +85,10 @@ sections:
         type: feature
         image: images/terrific-velociraptor.png
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Mūsų ūkyje yra net keturi tvenkiniai. Kiekvienas iš jų, kartu su
+          bendra laistymo sistema, užtikrina, jog net ir karčiausiomis vasaros
+          dienomis augalams netruktų drėgmės bei mineralų.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
