@@ -8,10 +8,8 @@ sections:
   - type: features_section
     features:
       - title: Mūsų nuostabi komanda
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Ūkis priklauso vienai šeimai. Jį prižiūri, uogas skina bei ravi tik 
         image: images/99.png
         image_alt: Top view of business meeting
         media_position: right
