@@ -75,7 +75,7 @@ sections:
         type: feature
         image: images/99.png
         subtitle: >-
-          Mūsų ūkyjes turi keturis tvenkinius. Kiekvienas iš jų karu su bendra
+          Mūsų ūkyje turi keturis tvenkinius. Kiekvienas iš jų karu su bendra
           laistymo sistema užtikrina, jog net karčiausiomis vasaros dienomis,
           mūsų aug
   - type: grid_section
