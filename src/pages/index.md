@@ -163,7 +163,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Klientas,** Agne
+          **Agnė**
         image: images/groovy-mahogany.png
         image_alt: Miles Tone
         image_position: left
