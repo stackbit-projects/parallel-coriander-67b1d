@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
     has_border: false
-    image: images/flowers.png
+    image: images/oval-potato.png
   - type: features_section
     title: Naudinga informacija
     subtitle: ''
