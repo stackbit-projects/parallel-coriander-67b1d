@@ -68,7 +68,7 @@ sections:
         align: left
         type: feature
         image: images/splendid-spinach.png
-      - title: lorem-ipsum
+      - title: Tvenkinių tvenkiniai
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
