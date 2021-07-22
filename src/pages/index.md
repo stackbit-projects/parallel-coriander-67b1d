@@ -60,7 +60,7 @@ sections:
           Norite pamatyti kaip atrodo mūsų ūkis? Užsukite į galeriją ir
           užmeskite akį į ten esančias ūkio nuotraukas
         actions:
-          - label: Nuotraukos
+          - label: Galerija
             url: /style-guide
             style: primary
             has_icon: true
