@@ -83,10 +83,9 @@ sections:
     grid_items:
       - title: Kontaktai
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Šiuo metu uogas pardavinėjame tik Vilniuje ir Šiauliuose. Kontaktinius
+          duomenis galite rasti paspaudę žemiau esančia rodyklę.
         content_align: left
         actions:
           - label: Learn More
