@@ -81,7 +81,7 @@ sections:
     title: Nuorodos
     subtitle: ''
     grid_items:
-      - title: Kontaktai
+      - title: Susisiekimas
         title_align: left
         content: >
           Šiuo metu uogas pardavinėjame tik Vilniuje ir Šiauliuose. Kontaktinius
