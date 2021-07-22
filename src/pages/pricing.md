@@ -54,8 +54,6 @@ sections:
 
           ### Sausmedžių uogos
 
-          #### (išparduota)
-
           Vitaminų bomba
 
           *   1kg kaina - 6€
