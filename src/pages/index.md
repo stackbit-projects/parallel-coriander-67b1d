@@ -58,7 +58,7 @@ sections:
       - title: Vaizdai
         content: >
           Norite pamatyti kaip atrodo mūsų ūkis? Užsukite į galeriją ir
-          užmeskite akį į ten esančius mūsų ūkio vaizdus.
+          užmeskite akį į ten esančias ūkio nuotraukas
         actions:
           - label: Mygtukas
             url: /style-guide
