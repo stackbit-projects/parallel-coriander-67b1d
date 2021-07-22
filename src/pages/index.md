@@ -81,7 +81,7 @@ sections:
     title: Nuorodos
     subtitle: ''
     grid_items:
-      - title: Trampampam
+      - title: Kontaktai
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
