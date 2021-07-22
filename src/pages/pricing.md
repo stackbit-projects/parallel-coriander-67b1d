@@ -27,7 +27,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/3.png
+        image: images/ultra-hickory.png
       - subtitle: ''
         title_align: left
         content: |
