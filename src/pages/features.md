@@ -74,7 +74,9 @@ sections:
         align: left
         type: feature
         image: images/99.png
-        subtitle: Mūsų ūkis turi keturis tvenkinius. Kiekvienas iš jų
+        subtitle: >-
+          Mūsų ūkis turi keturis tvenkinius. Kiekvienas iš jų karu su bendra
+          laistymo sistema
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
