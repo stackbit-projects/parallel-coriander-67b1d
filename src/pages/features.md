@@ -30,6 +30,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
+        image: images/rainy-thyme.png
       - title: Sausmedžių alėja
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
