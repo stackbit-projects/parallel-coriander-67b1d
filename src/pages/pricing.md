@@ -46,7 +46,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/jarHoney.png
+        image: images/cool-comet.png
       - subtitle: ''
         title_align: left
         content: |
