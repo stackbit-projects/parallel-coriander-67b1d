@@ -66,7 +66,6 @@ sections:
         type: feature
         image: images/99.png
       - title: Tvenkinių tvenkiniai
-        subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
