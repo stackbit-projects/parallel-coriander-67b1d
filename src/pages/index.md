@@ -148,8 +148,10 @@ sections:
     title: Atsiliepimai
     subtitle: ''
     grid_items:
-      - content: |
-          > Tikrai nustebino ir uogų dydis ir skonis. Labai jums ačiū!
+      - content: >
+          > Uogas naudojau kaip torto papuošimą. Svečiai buvo nustebinti uogų
+          dydžiu ir skoniu. Labai jums ačiū!
+
 
           **Ivona**
         image: images/groovy-mahogany.png
