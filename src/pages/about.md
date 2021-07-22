@@ -11,7 +11,7 @@ sections:
       - title: ''
         subtitle: ''
         content: ''
-        image: images/photo-1103595_960_720_0.png
+        image: images/44.png
         image_alt: People in conversation in the office lounge area
         media_position: left
         media_width: fifty
