@@ -77,7 +77,7 @@ sections:
         subtitle: >-
           Mūsų ūkis turi keturis tvenkinius. Kiekvienas iš jų karu su bendra
           laistymo sistema užtikrina, jog net karčiausiomis vasaros dienomis,
-          mūsų auginami
+          mūsų aug
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
