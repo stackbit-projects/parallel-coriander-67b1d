@@ -76,7 +76,7 @@ sections:
         image: images/99.png
         subtitle: >-
           Mūsų ūkis turi keturis tvenkinius. Kiekvienas iš jų karu su bendra
-          laistymo sistema užtikrina, jog net 
+          laistymo sistema užtikrina, jog net karčiausiomis vasaros dienomis
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
