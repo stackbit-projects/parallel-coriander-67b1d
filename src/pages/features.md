@@ -9,7 +9,7 @@ sections:
     features:
       - title: Mūsų nuostabi komanda
         content: |
-          Ūkis priklauso vienai šeimai. Jį prižiūri, uogas skina bei ravi tik 
+          Ūkio šeimininkai - Paulavičių šeima. 
         image: images/99.png
         image_alt: Top view of business meeting
         media_position: right
