@@ -44,10 +44,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Kuo prekiaujame
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Vasaros metu prekiaujame šviežiomis sausmedžių ir šilauogių uogomis.
+          Taip pat, rudenį ir pavasarį turime šviežaus miško bičių medaus.
         actions:
           - label: Mygtukas
             url: /style-guide
