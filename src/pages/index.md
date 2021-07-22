@@ -55,21 +55,6 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: Vaizdai
-        content: >
-          Norite pamatyti kaip atrodo mūsų ūkis? Užsukite į galeriją ir
-          užmeskite akį į ten esančias ūkio nuotraukas
-        actions:
-          - label: Galerija
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/leaf1.png
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: fifty
     feature_padding_vert: large
     align: center
     background_color: secondary
