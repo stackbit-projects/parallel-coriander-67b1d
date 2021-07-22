@@ -55,7 +55,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: Skiltis
+      - title: Vaizdai
         content: >
           Norite pamatyti kaip atrodo mūsų ūkis? Užsukite į galeriją ir
           užmeskite akį į ten esančius mūsų ūkio vaizdus.
