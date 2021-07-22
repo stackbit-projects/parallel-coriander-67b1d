@@ -66,7 +66,7 @@ sections:
           Mūsų ūkyje yra net keturi tvenkiniai. Kiekvienas iš jų, kartu su
           bendra laistymo sistema, užtikrina, jog net ir karčiausiomis vasaros
           dienomis augalams netruktų drėgmės bei mineralų.
-      - title: lorem-ipsum
+      - title: Šilauogių laukai
         content: >
           Šilauogės - mūsų ūkio pasididžiavimas. Jos bene labiausiai
           išpuoselėtas ir populiariausias mūsų produktas. Uogos didelės,
