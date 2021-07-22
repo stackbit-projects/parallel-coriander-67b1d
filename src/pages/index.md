@@ -99,7 +99,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Laiškai
+      - title: Laiškai ir atsiliepimai
         title_align: left
         content: >
           Norite palikti atsiliepimą ar šiaip parašyti mums laišką? Žemiau
