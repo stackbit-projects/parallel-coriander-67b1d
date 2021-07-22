@@ -27,7 +27,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/ultra-hickory.png
+        image: images/famous-amaranth.png
       - subtitle: ''
         title_align: left
         content: |
