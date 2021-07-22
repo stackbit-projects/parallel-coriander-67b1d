@@ -22,7 +22,6 @@ sections:
     padding_bottom: large
     background_color: primary
     has_border: false
-    image: images/blueFlower.png
   - type: features_section
     title: Naudinga informacija
     subtitle: ''
