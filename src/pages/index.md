@@ -170,7 +170,7 @@ sections:
         image_width: twenty-five
       - content: >
           > Kasmet iš šio ūkio perku medų ir šilauoges. Kokybe dar niekad
-          nenuvylė. Vienu žodžiu - super
+          nenuvylė. Vienu žodžiu - super!
 
 
           **Algis**
