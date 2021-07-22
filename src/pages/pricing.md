@@ -27,7 +27,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/perpetual-plankton.png
+        image: images/spectacular-lavender.png
       - subtitle: ''
         title_align: left
         content: |
