@@ -27,7 +27,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/great-pineapple.png
+        image: images/perpetual-plankton.png
       - subtitle: ''
         title_align: left
         content: |
