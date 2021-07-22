@@ -31,7 +31,7 @@ sections:
           fringilla, fringilla.
         actions:
           - label: Mygtukas
-            url: /style-guide
+            url: /features
             style: primary
             has_icon: true
             icon: arrow-right
