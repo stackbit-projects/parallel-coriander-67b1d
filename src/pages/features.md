@@ -67,7 +67,6 @@ sections:
           bendra laistymo sistema, užtikrina, jog net ir karčiausiomis vasaros
           dienomis augalams netruktų drėgmės bei mineralų.
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: |+
           CHILL
 
