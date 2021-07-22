@@ -43,19 +43,6 @@ sections:
         align: left
         type: feature
         image: images/99.png
-      - title: Tvenkinių tvenkiniai
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: ''
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/99.png
-        subtitle: >-
-          Mūsų ūkyje yra net keturi tvenkiniai. Kiekvienas iš jų, kartu su
-          bendra laistymo sistema, užtikrina, jog net ir karčiausiomis vasaros
-          dienomis augalams netruktų drėgmės bei mineralų.
       - title: Šilauogių laukai
         content: >
           Šilauogės - mūsų ūkio pasididžiavimas. Jos bene labiausiai
