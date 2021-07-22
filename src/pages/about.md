@@ -18,7 +18,6 @@ sections:
       - title: ''
         subtitle: ''
         content: ''
-        image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
