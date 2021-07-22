@@ -49,7 +49,7 @@ sections:
           Taip pat, rudenį ir pavasarį turime šviežaus miško bičių medaus.
         actions:
           - label: Mygtukas
-            url: /style-guide
+            url: /pricing
             style: primary
             has_icon: true
             icon: arrow-right
