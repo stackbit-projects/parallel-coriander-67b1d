@@ -27,7 +27,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/berry2.png
+        image: images/berry3.png
       - subtitle: ''
         title_align: left
         content: |
