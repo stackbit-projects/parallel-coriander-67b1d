@@ -27,7 +27,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/spectacular-lavender.png
+        image: images/melodic-moon.png
       - subtitle: ''
         title_align: left
         content: |
