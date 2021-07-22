@@ -25,8 +25,10 @@ sections:
     features:
       - title: Kas mes
         content: >
-          Vasaros ūkis yra oficialus Lietuvos Uogu Augintojų Asociacijos (LUAA)
-          narys.
+          Mes esame vienai šeimai priklausantis ūkis, kuriame auga įvairūs
+          vaisių ir riešutų krūmai bei medžiai. Vasaros metu užsiimame užaugintų
+          gėrybių pardavimu. Vasaros ūkis yra oficialus Lietuvos Uogu Augintojų
+          Asociacijos (LUAA) narys.
         actions:
           - label: Apie ūkį
             url: /features
