@@ -30,7 +30,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         actions:
-          - label: Mygtukas
+          - label: Apie ūkį
             url: /features
             style: primary
             has_icon: true
