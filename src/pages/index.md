@@ -169,11 +169,11 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          > Kasmet iš šio ūkio perku medų ir šilauoges. Kokybe dar niekad
+          nenuvylė. Vienu žodžiu - super
 
 
-          **Klientas**
+          **Algis**
         image: images/groovy-mahogany.png
         image_alt: Eleanor Carr
         image_position: left
