@@ -56,10 +56,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: Skiltis
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Norite pamatyti kaip atrodo mūsų ūkis? Užsukite į galeriją ir
+          užmeskite akį į ten esančius mūsų ūkio vaizdus.
         actions:
           - label: Mygtukas
             url: /style-guide
