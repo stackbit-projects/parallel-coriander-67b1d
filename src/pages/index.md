@@ -148,12 +148,10 @@ sections:
     title: Atsiliepimai
     subtitle: ''
     grid_items:
-      - content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: |
+          > Tikrai nustebino ir uogų dydis ir skonis. Labai jums ačiū!
 
-
-          **Klientas**
+          **Ivona**
         image: images/groovy-mahogany.png
         image_alt: Hanson Deck
         image_position: left
