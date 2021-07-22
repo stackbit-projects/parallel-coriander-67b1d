@@ -67,9 +67,11 @@ sections:
           bendra laistymo sistema, užtikrina, jog net ir karčiausiomis vasaros
           dienomis augalams netruktų drėgmės bei mineralų.
       - title: lorem-ipsum
-        content: |+
-          CHILL
-
+        content: >
+          Šilauogės - mūsų ūkio pasididžiavimas. Jos bene labiausiai
+          išpuoselėtas ir populiariausias mūsų produktas. Uogos didelės,
+          saldžios, o svarbiausia, natūraliai užaugintos.  Šiuo metu mūsų bitės
+          kasdien prižiūri beveik du tūkstančius šilauogių krūmų.
         actions: []
         media_position: right
         media_width: fifty
