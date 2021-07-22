@@ -25,7 +25,7 @@ sections:
         content: >
           Sausmedžiai, tai naujas mūsų atradimas. Nors krūmeliai dar maži,
           tačiau kiekvieną vasarą jau duoda nemažą derlių. Uogos turi išskirtinį
-          ir labai išraiškingą skonį, o ir vitaminų jose tikrai netrūksta.
+          ir ypač išraiškingą skonį, o ir vitaminų jose tikrai netrūksta.
         image: images/99.png
         image_alt: Happy co-workers
         media_position: right
