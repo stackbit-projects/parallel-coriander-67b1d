@@ -178,8 +178,10 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: |
-          Nepaprastai skanios šilauogės ir sausmedžių uogos. Labai rekomenduoju.
+      - content: >
+          > Nepaprastai skanios šilauogės ir sausmedžių uogos. Labai
+          rekomenduoju.
+
 
           **Gabrielė**
         image: images/groovy-mahogany.png
