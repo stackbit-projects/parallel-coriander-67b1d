@@ -79,6 +79,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/splendid-spinach.png
   - type: grid_section
     title: Prekiautojai
     subtitle: Komandos nariai atsakingi už komunikaciją ir pardavimus
