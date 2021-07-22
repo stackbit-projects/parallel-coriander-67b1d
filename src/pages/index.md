@@ -103,7 +103,7 @@ sections:
         title_align: left
         content: >
           Norite palikti atsiliepimą ar šiaip parašyti mums laišką? Žemiau
-          esanti rodyklytė parodys jums kelią.
+          esanti rodyklė parodys jums kelią.
         content_align: left
         actions:
           - label: Learn More
