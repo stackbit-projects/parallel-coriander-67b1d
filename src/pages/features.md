@@ -50,7 +50,6 @@ sections:
         type: feature
         image: images/99.png
       - title: Šilauogių laukai
-        subtitle: "Šilauogės - mūsų ūkio pasididžiavimas. Jos bene labiausiai išpuoselėtas ir populiariausias mūsų produktas. Uogos didelės, saldžios, o svarbiausia, natūraliai užaugintos. \_Šiuo metu mūsų bitės kasdien prižiūri beveik du tūkstančius šilauogių krūmų."
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
