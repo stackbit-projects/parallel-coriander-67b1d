@@ -5,7 +5,7 @@ sections:
     title: Vasaros ūkis
     subtitle: Naminės uogos bei tyras miško bičių medus.
     content: |
-      Šiuo metu turime šilauogių bei šviežaus miško bičių medaus.
+      \---
     actions:
       - label: Asortimentas
         url: /pricing
