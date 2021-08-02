@@ -1,6 +1,6 @@
 {
     "description": "Nuostabiausias ūkis Lietuvoje!",
-    "layout": "boxed",
+    "layout": "full-width",
     "style": "classic",
     "palette": "gray",
     "mode": "light",
