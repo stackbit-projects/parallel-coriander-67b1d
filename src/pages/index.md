@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: primary
     has_border: false
-    image: images/Bee-hives.png
+    image: images/magenta-comet.png
   - type: features_section
     title: Naudinga informacija
     subtitle: ''
