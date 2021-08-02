@@ -20,8 +20,9 @@ sections:
       ### Duomenų sauga.
 
 
-      Informuojame, jog jūsų pateikti duomenys yra saugomi. Juos pasiekti gali
-      tik žmogus, atsakingas už komunikaciją.
+      Informuojame, jog jūsų pateikti duomenys yra saugomi ir bus naudojami tik
+      susiekimo tikslais. Juos pasiekti gali tik personalas, atsakingas už
+      komunikaciją.
     content_align: left
     form_position: right
     form_width: fifty
