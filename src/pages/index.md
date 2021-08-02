@@ -54,7 +54,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        image: images/neat-mahogany.png
+        image: images/best-hedgehog.png
     feature_padding_vert: large
     align: center
     background_color: secondary
