@@ -39,6 +39,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
+        image: images/Bees.png
       - title: Kuo prekiaujame
         content: >
           Vasaros metu prekiaujame šviežiomis sausmedžių ir šilauogių uogomis.
