@@ -117,7 +117,7 @@ sections:
 
 
           **Ivona**
-        image: images/Hive.png
+        image: images/beHIVE.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
