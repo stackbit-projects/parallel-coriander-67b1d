@@ -137,7 +137,7 @@ sections:
 
 
           **Algis**
-        image: images/oceanic-jupiter.png
+        image: images/beHIVE.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
