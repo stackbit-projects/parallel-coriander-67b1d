@@ -54,7 +54,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        image: images/energetic-hickory.png
+        image: images/neat-mahogany.png
     feature_padding_vert: large
     align: center
     background_color: secondary
