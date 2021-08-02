@@ -117,7 +117,7 @@ sections:
 
 
           **Ivona**
-        image: images/oceanic-jupiter.png
+        image: images/Hive.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
