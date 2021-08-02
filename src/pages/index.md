@@ -127,7 +127,7 @@ sections:
 
 
           **Agnė**
-        image: images/oceanic-jupiter.png
+        image: images/beHIVE.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
