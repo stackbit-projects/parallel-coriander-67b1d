@@ -118,7 +118,7 @@ sections:
 
 
           **Ivona**
-        image: images/groovy-mahogany.png
+        image: images/beehive1.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
