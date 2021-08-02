@@ -68,7 +68,7 @@ sections:
         title_align: left
         content: >
           Šiuo metu uogas pardavinėjame tik Vilniuje ir Šiauliuose. Kontaktinius
-          duomenis galite rasti paspaudę žemiau esančia rodyklę.
+          duomenis galite rasti paspaudę žemiau esančią rodyklę.
         content_align: left
         actions:
           - label: Learn More
