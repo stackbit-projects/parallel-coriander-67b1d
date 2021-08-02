@@ -76,7 +76,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/new247.png
+        image: images/classic/icon-1.svg
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
