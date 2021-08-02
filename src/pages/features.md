@@ -92,7 +92,7 @@ sections:
 
 
           **Kęstutis,** *Šiauliai*
-        image: images/groovy-mahogany.png
+        image: images/oceanic-jupiter.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
