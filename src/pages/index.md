@@ -97,7 +97,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/newIcon.png
+        image: images/newDesignEmail.png
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
