@@ -46,7 +46,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/New Group 1.png
+        image: images/classic/icon-2.svg
         image_alt: Help and support icon
         image_position: top
         image_align: center
