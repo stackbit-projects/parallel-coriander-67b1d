@@ -128,7 +128,7 @@ sections:
 
 
           **Agnė**
-        image: images/groovy-mahogany.png
+        image: images/oceanic-jupiter.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
