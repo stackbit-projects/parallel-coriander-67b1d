@@ -18,11 +18,11 @@ sections:
         content: |
           > **Vilnius**
 
-          \+37061030258,   Vakaris
+          \+370 (668) 44 745,   Vakaris
 
           > **Šiauliai**
 
-          \+37061539726,     Kęstutis
+          \+370 (615) 39 726,     Kęstutis
         content_align: left
         actions: []
         actions_align: center
